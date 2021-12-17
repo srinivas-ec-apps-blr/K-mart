@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+hello im updating branch cm2
+>>>>>>> uat
 now im updatinf UAT branch
 hi we are updating in dev branch
 im in master branch
